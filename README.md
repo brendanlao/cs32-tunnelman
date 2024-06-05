@@ -1,4 +1,4 @@
-# Tunnel
+# Tunnelman
 Tunnelman is the final project for CS32 at UCLA, which incorporates OOP fundamentals such as inheritance and polymorphism.  The purpose if the game was to find all the barrels of oil in a tunnel map, and this was hindered by the presence of protestors who could prevent the tunnel man from reaching the barrels of oil.  The tunnel man was also able to interact with various consumables and game objects such as boulders, radars, and gold nuggets, which had their own corresponding logic. 
 
 # Reflection
